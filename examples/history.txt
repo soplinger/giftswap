@@ -1,0 +1,8 @@
+# past draws
+2025: Alice > Carol
+2025: Bob > Erin
+2025: Carol > Bob
+2025: Dan > Grace
+2025: Erin > Dan
+2025: Farid > Alice
+2025: Grace > Farid

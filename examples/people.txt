@@ -1,0 +1,10 @@
+# Office gift exchange 2026
+# name | household | budget | note
+Alice   | smith | 25 | likes tea and old paperbacks
+Bob     | smith | 25 | size M wool socks
+Carol   | jones | 20 | any mug is fine
+Dan     | jones | 20 |
+Erin    | | 30 | likes plants, no candles
+Farid   | lee | 25 |
+Grace   | lee | 25 | enjoys board games
+exclude Erin > Farid
